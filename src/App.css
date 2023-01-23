@@ -24,9 +24,21 @@
   color: white;
 }
 
+
+/* .header{
+  color: red;
+  font-size: 20px;
+} */
+
+.ant-typography{
+  color: black;
+  font-size: 20px;
+}
+
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +48,4 @@
     transform: rotate(360deg);
   }
 }
+
